@@ -9,11 +9,11 @@ This project is a classic Hangman word-guessing game. The player tries to guess 
 
 ### Main Menu
 
-![Hangman Game Main Menu](765.png)
+![Hangman Game Main Menu](Screenshot%20%28765%29.png)
 
 ### Gameplay
 
-![Hangman Game Gameplay](766.png)
+![Hangman Game Gameplay](Screenshot%20%28766%29.png)
 ## ✨ Features
 
 - Interactive console-based gameplay
