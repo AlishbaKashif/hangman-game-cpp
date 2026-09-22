@@ -5,7 +5,15 @@ A simple console-based Hangman game developed in C++ as a university project.
 ## 📌 About the Project
 
 This project is a classic Hangman word-guessing game. The player tries to guess the hidden word by entering letters. The game keeps track of incorrect guesses and continues until the word is guessed or the player runs out of attempts.
+## 📸 Screenshots
 
+### Main Menu
+
+![Hangman Game Main Menu](765.png)
+
+### Gameplay
+
+![Hangman Game Gameplay](766.png)
 ## ✨ Features
 
 - Interactive console-based gameplay
