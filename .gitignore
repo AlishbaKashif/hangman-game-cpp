@@ -1,0 +1,18 @@
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# Dev-C++ files
+*.layout
+*.depend
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# IDE/editor files
+.vscode/
